@@ -475,7 +475,7 @@ Deployment links will be added after the application is hosted.
 - Google OAuth authentication.
 - Offline itinerary access.
 - Email and push notifications.
-- Route optimization.
+- Route optimization..
 
 ## Learning Objectives
 
